@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    background: grey;
+    padding: 0 2em;
+}
+
+.headerLinksContainer {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+}
+
+.headerLinksContainer li {
+    margin: 0 2em;
+}
